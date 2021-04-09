@@ -22,7 +22,7 @@ const Lab11 = () => {
 
     const getReq = async () =>{
         const req = new XMLHttpRequest()
-        await req.open('GET','http://localhost:3005/blogPost')
+        await req.open('GET','http://localhost:3006/blogPost')
         req.onload = () =>{
             if(req.status >= 200 && req.status < 400){
                 const data = JSON.parse(req.responseText)

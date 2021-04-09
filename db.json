@@ -1,0 +1,226 @@
+{
+  "blogPost": [
+    {
+      "title": "short-term",
+      "content": "ngắn hạn",
+      "image": null,
+      "id": 2
+    },
+    {
+      "title": "long-term",
+      "content": "dài hạn",
+      "image": null,
+      "id": 3
+    },
+    {
+      "title": "encapsulation",
+      "content": "tính đóng gói",
+      "image": "https://codelearn.io/Upload/Blog/lap-trinh-huong-doi-tuong-phan-5-63729265681.6431.jpg",
+      "id": 4
+    },
+    {
+      "title": "encapsulate",
+      "content": "đóng gói",
+      "image": null,
+      "id": 5
+    },
+    {
+      "title": "overloading",
+      "content": "quá tải",
+      "image": null,
+      "id": 6
+    },
+    {
+      "title": "polymorphism",
+      "content": "tính đa hình",
+      "image": null,
+      "id": 7
+    },
+    {
+      "title": "inheritance",
+      "content": "kế thừa",
+      "image": null,
+      "id": 8
+    },
+    {
+      "title": "argument",
+      "content": "tham số",
+      "image": null,
+      "id": 9
+    },
+    {
+      "title": "session",
+      "content": "phiên",
+      "image": null,
+      "id": 10
+    },
+    {
+      "title": "anonymous",
+      "content": "nặc danh",
+      "image": null,
+      "id": 11
+    },
+    {
+      "title": "persistant",
+      "content": "ổn định",
+      "image": null,
+      "id": 12
+    },
+    {
+      "title": "scheme",
+      "content": "giao thức",
+      "image": null,
+      "id": 13
+    },
+    {
+      "title": "submit",
+      "content": "nộp - đỉnh",
+      "image": null,
+      "id": 14
+    },
+    {
+      "title": "commit",
+      "content": "cam kết ",
+      "image": null,
+      "id": 15
+    },
+    {
+      "title": "initial",
+      "content": "khởi đầu ",
+      "image": null,
+      "id": 16
+    },
+    {
+      "title": "repository",
+      "content": "kho chứa",
+      "image": null,
+      "id": 17
+    },
+    {
+      "title": "brand",
+      "content": "nhánh ",
+      "image": null,
+      "id": 18
+    },
+    {
+      "title": "track",
+      "content": "theo dõi ",
+      "image": null,
+      "id": 19
+    },
+    {
+      "title": "regular expression",
+      "content": "biểu thức chính quy ",
+      "image": null,
+      "id": 20
+    },
+    {
+      "title": "ignore",
+      "content": "bỏ qua ",
+      "image": null,
+      "id": 21
+    },
+    {
+      "title": "conflic",
+      "content": "xung đột ",
+      "image": null,
+      "id": 22
+    },
+    {
+      "title": "cluster",
+      "content": "cumk ",
+      "image": null,
+      "id": 23
+    },
+    {
+      "title": "pattern",
+      "content": "khuôn mẫu ",
+      "image": null,
+      "id": 24
+    },
+    {
+      "title": "modifier",
+      "content": "phạm vi truy cập ",
+      "image": null,
+      "id": 25
+    },
+    {
+      "title": "intance",
+      "content": "đối tượng, thực thể ",
+      "image": null,
+      "id": 26
+    },
+    {
+      "title": "function",
+      "content": "hàm ",
+      "image": null,
+      "id": 27
+    },
+    {
+      "title": "destructor",
+      "content": "hủy, bỏ (trong bộ nhớ) ",
+      "image": null,
+      "id": 28
+    },
+    {
+      "title": "DBMS",
+      "content": "Database Management System",
+      "image": null,
+      "id": 29
+    },
+    {
+      "title": "HTTP",
+      "content": "HyperText Tranfer Protocol",
+      "image": null,
+      "id": 30
+    },
+    {
+      "title": "<pre>",
+      "content": "Preformatted",
+      "image": null,
+      "id": 31
+    },
+    {
+      "title": "PHP",
+      "content": "Hypertext Preprocessor",
+      "image": null,
+      "id": 32
+    },
+    {
+      "title": "GUI",
+      "content": "Graphical User Interface",
+      "image": null,
+      "id": 33
+    },
+    {
+      "title": "VPS",
+      "content": "Virtual Private Server",
+      "image": null,
+      "id": 33
+    },
+    {
+      "title": "SSL",
+      "content": "Secure Socket Layer",
+      "image": null,
+      "id": 34
+    },
+    {
+      "title": "OS",
+      "content": "Operating System",
+      "image": null,
+      "id": 35
+    },
+    {
+      "title": "DDL",
+      "content": "Data Definition Language",
+      "image": null,
+      "id": 36
+    },
+    {
+      "title": "DML",
+      "content": "Data Manipulation Language",
+      "image": null,
+      "id": 37
+    }
+  ]
+}
