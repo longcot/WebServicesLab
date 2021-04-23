@@ -1,6 +1,6 @@
 import {combineReducers} from 'redux'
-import userReducer from './userReducer'
+import quesReducer from './quesReducer'
 
 export default combineReducers({
-    student: userReducer,
+    question: quesReducer,
 })

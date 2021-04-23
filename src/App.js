@@ -6,6 +6,7 @@ import Lab3 from "./screens/Lab3";
 import Lab4 from './screens/Lab4'
 import Lab9 from './screens/Lab9'
 import Lab11 from './screens/Lab11'
+import Lab13 from './screens/Lab13'
 
 // ROUTE
 import { Switch, Route } from "react-router-dom";
@@ -35,6 +36,10 @@ function App() {
         <Route path="/lab9">
           <Lab9/>
         </Route>
+        <Route path="/lab13">
+          <Lab13/>
+        </Route>
+        
       </Switch>
     </div>
   );

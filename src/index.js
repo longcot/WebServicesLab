@@ -10,24 +10,24 @@ import reducers from './reducers'
 import { BrowserRouter } from "react-router-dom";
 
 const store = createStore(reducers,applyMiddleware(thunk))
-// ReactDOM.render(
-//   <React.StrictMode>
-//     <BrowserRouter>
-//       <Provider store ={store}>
-//       <App />
-//       </Provider>
-//     </BrowserRouter>
-//   </React.StrictMode>,
-//   document.getElementById("root")
-// );
-
 ReactDOM.render(
   <React.StrictMode>
     <BrowserRouter>
-     
+      <Provider store ={store}>
       <App />
-    
+      </Provider>
     </BrowserRouter>
   </React.StrictMode>,
   document.getElementById("root")
 );
+
+// ReactDOM.render(
+//   <React.StrictMode>
+//     <BrowserRouter>
+     
+//       <App />
+    
+//     </BrowserRouter>
+//   </React.StrictMode>,
+//   document.getElementById("root")
+// );
